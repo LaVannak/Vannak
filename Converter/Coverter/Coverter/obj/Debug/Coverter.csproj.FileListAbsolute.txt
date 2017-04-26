@@ -1,0 +1,9 @@
+E:\Programming\Cert IV\S1\ICTPRG401 - Open Sources\Converter\Coverter\Coverter\bin\Debug\Coverter.exe.config
+E:\Programming\Cert IV\S1\ICTPRG401 - Open Sources\Converter\Coverter\Coverter\bin\Debug\Coverter.exe
+E:\Programming\Cert IV\S1\ICTPRG401 - Open Sources\Converter\Coverter\Coverter\bin\Debug\Coverter.pdb
+E:\Programming\Cert IV\S1\ICTPRG401 - Open Sources\Converter\Coverter\Coverter\obj\Debug\Coverter.csprojResolveAssemblyReference.cache
+E:\Programming\Cert IV\S1\ICTPRG401 - Open Sources\Converter\Coverter\Coverter\obj\Debug\Coverter.Properties.Resources.resources
+E:\Programming\Cert IV\S1\ICTPRG401 - Open Sources\Converter\Coverter\Coverter\obj\Debug\Coverter.csproj.GenerateResource.Cache
+E:\Programming\Cert IV\S1\ICTPRG401 - Open Sources\Converter\Coverter\Coverter\obj\Debug\Coverter.exe
+E:\Programming\Cert IV\S1\ICTPRG401 - Open Sources\Converter\Coverter\Coverter\obj\Debug\Coverter.pdb
+E:\Programming\Cert IV\S1\ICTPRG401 - Open Sources\Converter\Coverter\Coverter\obj\Debug\Coverter.FrmConverter.resources
